@@ -14,3 +14,9 @@ What are their use cases?
 
 Install Hyperledger
 
+## Primitive coding practices of Hyper Ledger
+
+Uses the Ethereum Virtual Machine (EVM)
+
+I imagine it uses solidity for smart contracts? 
+- Look in to Vyper (make boiler plate projects too)
